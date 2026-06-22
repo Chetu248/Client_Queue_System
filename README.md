@@ -311,17 +311,6 @@ When `priority === 'emergency'`, `addPatient()` finds the current `in-progress` 
 
 ---
 
-## 📸 Screenshots
-
-| Screen | Description |
-|--------|-------------|
-| Login | Split hero + form layout, quick demo buttons |
-| Reception Dashboard | Action bar, 4 live stat cards, searchable queue table |
-| Patient Waiting Room | Large animated token display, token lookup, progress bar |
-| Admin Dashboard | Efficiency metrics, doctor breakdown, system status |
-
----
-
 ## 🔮 Future Improvements
 
 - [ ] MongoDB persistence + multi-day history
@@ -335,7 +324,3 @@ When `priority === 'emergency'`, `addPatient()` finds the current `in-progress` 
 - [ ] Multi-clinic / multi-branch support
 
 ---
-
-## 📄 License
-
-MIT © 2026 QueueCure Team
